@@ -17,7 +17,7 @@ This repository provides templates for CBSE Class 12 Practical Project frontpage
     - [**Acknowledgement Template**](Acknowledgement.docx)
     - [**Certificate Template**](Certificate.docx)
 
-2. Click on the link of the template you need Than click on view raw. 
+2. Click on the link of the template you need Than click on view raw or download button . 
 
 3. Your browser will prompt you to download the file. Save it to your local machine.
 
